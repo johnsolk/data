@@ -28,7 +28,7 @@ MARKUP = ('md',)
 # inside the directory content/
 # The contents of img/ will be available at 
 # {{ SITEURL }}/img
-STATIC_PATHS = ['img']
+STATIC_PATHS = ['files','img']
 
 # If we want to create static pages,
 # we should put them in content/pages
