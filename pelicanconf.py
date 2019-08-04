@@ -4,7 +4,7 @@ import markdown
 
 AUTHOR = u'Lisa Johnson'
 SITENAME = u'data'
-SITEURL = 'https://ljcohen.github.io/data'
+SITEURL = 'https://johnsolk.github.io/data'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
 
